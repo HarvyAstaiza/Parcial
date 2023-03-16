@@ -1,0 +1,28 @@
+.img-sur{
+    width: 90%;
+    height: 90%;
+    margin: 30px;
+    
+}
+.titulo-sur{
+    margin-top: 30px;
+    margin-left: 90px;
+
+}
+.parrafo-sur{
+    margin-top: 80px;
+    
+}
+#texto1{
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI';
+}
+.pie{
+
+    background-color: rgba(216, 9, 9, 0.884);
+    
+}
+.row{
+    margin-bottom:30px;
+}
